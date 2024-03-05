@@ -39,6 +39,10 @@ Apply CSS styling to the HTML structure to achieve the desired visual design. Ma
 
 ## GitHub Page URL
 
+https://suraj-bargaje-colmar-acadmy-project.netlify.app/
+
+alternate site 
+
 https://surajbargaje.github.io/ColmarAcadmy-Project/
 
 Happy Coding!
